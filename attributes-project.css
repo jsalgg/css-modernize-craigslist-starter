@@ -87,3 +87,15 @@ footer {
 #topban h2 {
   text-align: center;
 }
+ul .clfooter {
+  text-align: center;
+  border-top:1px solid grey;
+  padding: 10,10,0,0;
+}
+ul .clfooter > li {
+  display: inline;
+  padding-right:5px;
+}
+h4.ban::before {
+  content:"☮️";
+}
