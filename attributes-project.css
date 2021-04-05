@@ -49,3 +49,16 @@ ul {
 ul > li {
   list-style: none;
 }
+
+a:visited {
+  color: #800080;
+}
+a:hover {
+  font-weight: bold;
+  color: #800080;
+}
+
+a > span:hover {
+  font-weight: bold;
+  color: #800080;
+}
